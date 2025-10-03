@@ -21,7 +21,7 @@ I'll be updating this as I go ✅
 | ⏳ | **Midterm Project** | 🛠️ Train + Deploy End-to-End Project | [ ] Not Started <br> [ ] In Progress <br> [ ] Completed | Choose dataset + deploy |
 | ⏩ | **Module 7** | 🧠 Neural Networks, CNNs, Transfer Learning | [ ] Not Started <br> [ ] In Progress <br> [ ] Completed | TensorFlow & PyTorch |
 | ⏩ | **Module 8** | ☁️ Serverless Deployment (AWS Lambda) | [ ] Not Started <br> [ ] In Progress <br> [ ] Completed | |
-| ⏩ | **Module 9** | 🐳 Kubernetes + TensorFlow Serving | [ ] Not Started <br> [ ] In Progress <br> [ ] Completed | Scalable model serving |
+| ⏩ | **Module 9** | 🐳 Kubernetes + TensorFlow Serving | [ ] Not Started <br> [ ] In Progress <br> [ ] Completed | Scalable model serving with AWS |
 | 🏁 | **Capstone Project** | 🚀 End-to-End ML Project + Deployment | [ ] Not Started <br> [ ] In Progress <br> [ ] Completed | Pick your own challenge! |
 
 ---
